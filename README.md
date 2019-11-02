@@ -1,4 +1,3 @@
-#Domain-invariant-variational-autoencoder
 This the pytorch implementation of [DIVA: DOMAIN INVARIANT VARIATIONAL AUTOENCODERS](https://arxiv.org/pdf/1905.10427.pdf) Maximilian Ilse et al. the goal of this paper is to tackle the problem of disentaglement and generalizing the representations over the unseen domains. The implementation of the code has not been shared by the authors and I implemented the code based on the architecture explained in the paper for the supervised part and will add unsupervised part soon.
 The abstraction of this paper is as below:
 
